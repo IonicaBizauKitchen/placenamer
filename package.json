@@ -12,5 +12,8 @@
   "dependencies": {
     "placename": "~0.2.0",
     "router": "~0.6.2"
+  },
+  "engines": {
+    "node": "0.11.x"
   }
 }
