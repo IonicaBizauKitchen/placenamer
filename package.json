@@ -1,0 +1,16 @@
+{
+  "name": "placenamer",
+  "version": "0.0.0",
+  "description": "placename as a service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/zeke/placenamer",
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "placename": "~0.2.0",
+    "router": "~0.6.2"
+  }
+}
